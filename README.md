@@ -1,4 +1,4 @@
-# Realtime Detection using TensorFlow
+# Realtime Object Detection using TensorFlow
 
 ## Objective
 

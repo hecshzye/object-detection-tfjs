@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>rawimgages15.jpg</filename>
+	<path>/Users/hemanth/Desktop/allimgs/test/rawimgages15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>360</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>connector</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>196</ymin>
+			<xmax>245</xmax>
+			<ymax>418</ymax>
+		</bndbox>
+	</object>
+</annotation>

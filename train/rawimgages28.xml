@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>rawimgages28.jpg</filename>
+	<path>/Users/hemanth/Desktop/allimgs/train/rawimgages28.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>connector</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>685</xmin>
+			<ymin>1373</ymin>
+			<xmax>1971</xmax>
+			<ymax>2228</ymax>
+		</bndbox>
+	</object>
+</annotation>

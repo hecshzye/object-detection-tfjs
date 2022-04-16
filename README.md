@@ -3,7 +3,7 @@
 ## Objective
 
   - To contruct a Deep Learning algorithm using TensorFlow and Transfer Learning to recognise the connector inside a machinery (🚘)
-  - Build a web application where the TensorFlow Js model is running inference over the live webcam with at least 90% accuracy.
+  - Build a web application where the TensorFlow Js model is running inference over the live webcam.
 
 ## Tools
 

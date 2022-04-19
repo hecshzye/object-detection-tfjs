@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>connector6.jpg</filename>
+	<path>/Users/hemanth/Desktop/allimgnew/train/connector6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>239</width>
+		<height>320</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>connector</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>69</ymin>
+			<xmax>217</xmax>
+			<ymax>204</ymax>
+		</bndbox>
+	</object>
+</annotation>

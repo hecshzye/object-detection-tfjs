@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>connector46.jpg</filename>
+	<path>/Users/hemanth/Desktop/allimgnew/test/connector46.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>320</width>
+		<height>438</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>connector</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>9</xmin>
+			<ymin>35</ymin>
+			<xmax>296</xmax>
+			<ymax>303</ymax>
+		</bndbox>
+	</object>
+</annotation>

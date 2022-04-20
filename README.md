@@ -19,4 +19,9 @@
 
 # Result
 
+## With ssd_mobilenetv2_fpn_lite 320x320 (Final Model)
+
+<img width="508" alt="Screenshot 2022-04-20 at 15 06 22" src="https://user-images.githubusercontent.com/87764103/164199085-2af0278b-1dd2-46f1-850a-4d00f0065e48.png">
+
+## With ssd_resnet101_v1 640x640
 <img width="688" alt="Screenshot 2022-04-16 at 02 49 06" src="https://user-images.githubusercontent.com/87764103/163633604-a93f7717-c1e8-47e1-a9e2-04274684d302.png">
